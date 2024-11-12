@@ -24,4 +24,4 @@ Ensure you have the following installed:
 
 ## Credits
 
-Special thanks to **@Naga95** for creating this amazing overlay! ❤️
+Special thanks to **Naga95** for creating this amazing overlay! ❤️
