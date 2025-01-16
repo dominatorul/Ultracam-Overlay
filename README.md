@@ -32,3 +32,4 @@ Download the Ultracam Overlay package and place it in your Ultrahand package dir
 
 Special thanks to **Naga95** for creating this amazing overlay! ❤️ 
 Special thanks to **Catcher in the grain field** for the new features! ❤️ 
+Special thanks to ***ppkantorski** for helping me debugging the package! ❤️ 
